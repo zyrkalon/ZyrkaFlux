@@ -24,7 +24,7 @@
 
 ## Usage
 
-Run the latest ZyrkaFlux-`version` from [Releases](https://github.com/zyrkalon/ZyrkaFlux/releases/) page in an executor that supports **loadstring**.
+Run the [latest ZyrkaFlux version](https://github.com/zyrkalon/ZyrkaFlux/releases/latest) in an executor that supports **loadstring**.
 
 
 
