@@ -24,11 +24,9 @@
 
 ## Usage
 
-Run via any Roblox executor that supports `loadstring`. The script loads the Rayfield UI library automatically.
+Run `ZyrkaFlux-1.0.txt` from [Releases](https://github.com/zyrkalon/ZyrkaFlux/releases/) page in an executor that supports **loadstring**.
 
-```
-loadstring(game:HttpGet(''))()
-```
+
 
 ## Configuration
 
